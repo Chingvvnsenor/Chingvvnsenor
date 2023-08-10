@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chingvvnsenor
 - 👀 I’m interested in Finance, economics and coding 
-- 🌱 I’m currently learning Adobe programms, trading and front-end development
+- 🌱 I’m currently learning database, backend programms, sql query langueges and back-end development
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me /b19fa1280@ufe.edu.mn/
+- 📫 How to reach me /chinguun.g@golomtbank.com/
 
 <!---
 Chingvvnsenor/Chingvvnsenor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
